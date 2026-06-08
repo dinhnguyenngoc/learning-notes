@@ -32,15 +32,6 @@ cứu nhanh trong quá trình tự học và ôn thi chứng chỉ.
 tiếp, các template Project Management là file `.xlsx` mở bằng Excel/LibreOffice. Một số thư
 mục có file `ReadMi.txt` chứa **link nguồn** tới tài liệu gốc / trang luyện thi.
 
-## ⚠️ Lưu ý bản quyền
-
-Repo có chứa một số **sách/giáo trình có bản quyền** (ví dụ BABOK Guide, PMBOK Guide và một
-số ebook). Đây là **tài liệu cá nhân phục vụ mục đích học tập**, không nhằm phân phối lại.
-Nếu công khai repo, nên cân nhắc:
-- Chỉ giữ lại **ghi chú / tóm tắt do mình tự viết** + **link tới nguồn gốc** (như các
-  `ReadMi.txt` đang làm), thay vì commit trọn vẹn sách có bản quyền; hoặc
-- Để repo ở chế độ **private** nếu cần lưu bản đầy đủ.
-
 ## Tác giả
 
 Nguyễn Ngọc Đỉnh
